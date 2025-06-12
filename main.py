@@ -20,7 +20,7 @@ async def on_ready():
 
     print("Done")
 
-    id_kenh = 1247080044816498711
+    id_kenh = 1040974957137633339
     id_server = 1040974953274671205
     
     vc = discord.utils.get(client.get_guild(id_server).channels, id = id_kenh)
